@@ -2,7 +2,7 @@
 
 #     This Script Wrote
 #             By
-#         Amin Azymi
+#         LilMicr0
 clear
 sudo apt-get install libnotify-bin
 
